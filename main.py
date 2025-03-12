@@ -4,6 +4,7 @@ import requests
 import json
 # Load environment variables
 #Test for pull request
+#This is new
 version = "?api-version=2023-02-01-preview&modelVersion=latest"
 
 def get_image_embedding(image):
